@@ -29,6 +29,8 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 </details>
 <br />
 <br />
+<br />
+<br />
 
 <details>
   <summary>:eight_spoked_asterisk: Github Stats</summary>
@@ -46,7 +48,7 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 <br />
 <br />
 
-<!-- <details>
+<details>
   <summary>:eight_spoked_asterisk: Some of my Projects</summary>
     <br />
     EV-connection
@@ -58,14 +60,5 @@ I am always looking for opportunity to increase my knowledge and at the same tim
     Excuse Gen v1
     <img align="left" alt="Excuse Gen v1" width="200px" src="./img/git.png" />
   
-</details> -->
-
-<br />
-<details>
-  <summary>:zap: Sneak Peak of my work</summary>
-  <br />
-
-  EV-Connection             |  SightSpot             |  Excuse_Generator
-:-------------------------:|:-------------------------:
-![EV-Connection](./img/06evcon.gif)  |  ![SightSpot](../img/02sight.gif) |  ![SightSpot](./img/07exgen.gif)
 </details>
+
