@@ -1,4 +1,4 @@
-# Hello! <img align="left" alt="waving" width="40px" src="./img/html.png" />
+# Hello! <img align="left" alt="waving" width="40px" src="./img/waving-hi.gif" />
 
 I'm Fabio Petrella, a full stack web developer currently living in Berlin. 
 <br />
@@ -13,11 +13,12 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 🔧 Technologies & Tools
 <br />
 <br />
-<img align="left" alt="HTML5" width="40px" src="./img/html.png" />
-<img align="left" alt="Sass" width="40px" src="./img/sass.png" />
-<img align="left" alt="JavaScript" width="40px" src="./img/javascript.png" />
-<img align="left" alt="CSS3" width="40px" src="./img/css.png" />
 <img align="left" alt="React" width="40px" src="./img/react.png" />
+<img align="left" alt="HTML5" width="40px" src="./img/html.png" />
+<img align="left" alt="JavaScript" width="40px" src="./img/javascript.png" />
+<img align="left" alt="TypeScript" width="45px" src="./img/typescript.png" />
+<img align="left" alt="Sass" width="40px" src="./img/sass.png" />
+<img align="left" alt="CSS3" width="40px" src="./img/css.png" />
 <img align="left" alt="Node.js" width="40px" src="./img/nodejs.png" />
 <img align="left" alt="Express" width="40px" src="./img/express.png" />
 <img align="left" alt="MongoDB" width="40px" src="./img/mongodb.png" />
