@@ -50,15 +50,23 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 
 <details>
   <summary>:eight_spoked_asterisk: Some of my Projects</summary>
-    <br />
-        <img alt="evConnection" width="200px" src="./img/06evcon.gif" />
+  <br />
+  <br />
     EV-connection
     <br />
-    <img alt="SightSpot" width="200px" src="./img/02sight.gif" />
+    <img alt="evConnection" width="400px" src="./img/06evcon.gif" />
+    <br />
+    <br />
     SightSpot
     <br />
-    <img alt="Excuse Gen v1" width="200px" src="./img/07exgen" />
+    <img alt="SightSpot" width="400px" src="./img/02sight.gif" />
+    <br />
+    <br />
     Excuse Gen v1
+    <br />
+    <img alt="Excuse Gen v1" width="400px" src="./img/07exgen.gif" />
+    <br />
+    
   
 </details>
 
