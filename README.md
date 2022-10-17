@@ -3,7 +3,6 @@
 ## I'm Fabio Petrella, a full stack web developer currently living in Berlin.
 
 <br />
-<br />
 
 Aside from coding, I'm also passionate about music 🎶, art 🎨 and sustainability 🌳.
 I am always looking for opportunity to increase my knowledge and at the same time give my contribution.
