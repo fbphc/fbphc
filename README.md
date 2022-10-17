@@ -1,16 +1,17 @@
 # Hello! <img align="left" alt="waving" width="40px" src="./img/waving-hi.gif" />
 
-## I'm Fabio Petrella, a full stack web developer currently living in Berlin. 
-<br />
+## I'm Fabio Petrella, a full stack web developer currently living in Berlin.
 
-## Aside from coding, I'm also passionate about music 🎶, art 🎨 and sustainability 🌳.
-## I am always looking for opportunity to increase my knowledge and at the same time give my contribution.
-<br />
 <br />
 <br />
 
+Aside from coding, I'm also passionate about music 🎶, art 🎨 and sustainability 🌳.
+I am always looking for opportunity to increase my knowledge and at the same time give my contribution.
+<br />
+<br />
 
 ### 🔧 Technologies & Tools
+
 <br />
 <br />
 <img align="left" alt="React" width="40px" src="./img/react.png" />
@@ -26,7 +27,6 @@
 <img align="left" alt="Terminal" width="40px" src="./img/terminal.png" />
 <img align="left" alt="Git" width="40px" src="./img/git.png" />
 </details>
-<br />
 <br />
 <br />
 
@@ -49,10 +49,15 @@
 <details>
   <summary>:eight_spoked_asterisk: Some of my Projects</summary>
     <br />
+    EV-connection
+        <img align="left" alt="evConnection" width="200px" src="./img/vscode.png" />
+    <br />
+    SightSpot
+    <img align="left" alt="SightSpot" width="200px" src="./img/terminal.png" />
+    <br />
+    Excuse Gen v1
+    <img align="left" alt="Excuse Gen v1" width="200px" src="./img/git.png" />
+  
+</details>
 
-  EV-Connection             |  SightSpot             |  Excuse_Generator
-:-------------------------:|:-------------------------:
-![EV-Connection](./img/06evcon.gif)  |  ![SightSpot](../img/02sight.gif) |  ![SightSpot](./img/07exgen.gif)
-</details>
-</details>
 <br />
