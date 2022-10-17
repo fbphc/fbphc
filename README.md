@@ -51,14 +51,14 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 <details>
   <summary>:eight_spoked_asterisk: Some of my Projects</summary>
     <br />
+        <img alt="evConnection" width="200px" src="./img/06evcon.gif" />
     EV-connection
-        <img align="left" alt="evConnection" width="200px" src="./img/vscode.png" />
     <br />
+    <img alt="SightSpot" width="200px" src="./img/02sight.gif" />
     SightSpot
-    <img align="left" alt="SightSpot" width="200px" src="./img/terminal.png" />
     <br />
+    <img alt="Excuse Gen v1" width="200px" src="./img/07exgen" />
     Excuse Gen v1
-    <img align="left" alt="Excuse Gen v1" width="200px" src="./img/git.png" />
   
 </details>
 
