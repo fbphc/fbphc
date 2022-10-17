@@ -13,7 +13,7 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 ### 🔧 Technologies & Tools
 
 <br />
-<details>
+
 <img align="left" alt="React" width="40px" src="./img/react.png" />
 <img align="left" alt="HTML5" width="40px" src="./img/html.png" />
 <img align="left" alt="JavaScript" width="40px" src="./img/javascript.png" />
@@ -26,7 +26,7 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 <img align="left" alt="Visual Studio Code" width="40px" src="./img/vscode.png" />
 <img align="left" alt="Terminal" width="40px" src="./img/terminal.png" />
 <img align="left" alt="Git" width="40px" src="./img/git.png" />
-</details>
+
 <br />
 <br />
 <br />
