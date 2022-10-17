@@ -1,22 +1,22 @@
 # Hello! <img align="left" alt="waving" width="40px" src="./img/waving-hi.gif" />
 
-I'm Fabio Petrella, a full stack web developer currently living in Berlin. 
+## I'm Fabio Petrella, a full stack web developer currently living in Berlin. 
 <br />
 
-Aside from coding, I'm also passionate about music 🎶, art 🎨 and sustainability 🌳.
-I am always looking for opportunity to increase my knowledge and at the same time give my contribution.
+## Aside from coding, I'm also passionate about music 🎶, art 🎨 and sustainability 🌳.
+## I am always looking for opportunity to increase my knowledge and at the same time give my contribution.
 <br />
 <br />
 <br />
 
 
-🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 <br />
 <br />
 <img align="left" alt="React" width="40px" src="./img/react.png" />
 <img align="left" alt="HTML5" width="40px" src="./img/html.png" />
 <img align="left" alt="JavaScript" width="40px" src="./img/javascript.png" />
-<img align="left" alt="TypeScript" width="45px" src="./img/typescript.png" />
+<img align="left" alt="TypeScript" width="40px" src="./img/typescript.png" />
 <img align="left" alt="Sass" width="40px" src="./img/sass.png" />
 <img align="left" alt="CSS3" width="40px" src="./img/css.png" />
 <img align="left" alt="Node.js" width="40px" src="./img/nodejs.png" />
@@ -28,4 +28,31 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 </details>
 <br />
 <br />
+<br />
+
+<details>
+  <summary>:eight_spoked_asterisk: Github Stats</summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=fbphc&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+<br />
+
+<br />
+<details>
+  <summary>:eight_spoked_asterisk: Languages Used</summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbphc&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br />
+<br />
+
+<details>
+  <summary>:eight_spoked_asterisk: Some of my Projects</summary>
+    <br />
+
+  EV-Connection             |  SightSpot             |  Excuse_Generator
+:-------------------------:|:-------------------------:
+![EV-Connection](./img/06evcon.gif)  |  ![SightSpot](../img/02sight.gif) |  ![SightSpot](./img/07exgen.gif)
+</details>
+</details>
 <br />
