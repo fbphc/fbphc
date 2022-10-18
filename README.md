@@ -6,10 +6,15 @@
 
 Aside from coding, I'm also passionate about music 🎶, art 🎨 and sustainability 🌳.
 I am always looking for opportunity to increase my knowledge and at the same time give my contribution.
+
+<br />
+
+[<img src="./img/linkedinlogo.png" width="110px" />](https://www.linkedin.com/in/fabio-petrella-676417b5/)
 <br />
 <br />
 
 ### 🔧 Technologies & Tools
+<br />
 
 
 <img align="left" alt="HTML5" width="40px" src="./img/html.png" />
@@ -24,6 +29,7 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 <img align="left" alt="Visual Studio Code" width="40px" src="./img/vscode.png" />
 <img align="left" alt="Terminal" width="40px" src="./img/terminal.png" />
 <img align="left" alt="Git" width="40px" src="./img/git.png" />
+<img align="left" alt="Git" width="100px" src="./img/leafletlogo.png" />
 
 <br />
 <br />
