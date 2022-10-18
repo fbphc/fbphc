@@ -14,8 +14,8 @@ I am always looking for opportunity to increase my knowledge and at the same tim
 <br />
 
 ### 🔧 Technologies & Tools
-<br />
 
+<br />
 
 <img align="left" alt="HTML5" width="40px" src="./img/html.png" />
 <img align="left" alt="React" width="40px" src="./img/react.png" />
